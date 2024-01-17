@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration file (rename this to enable it for your project)
+# pycharm
+.idea/
+
+# Python env
+venv/
+env/
+*.env
+.env.*
+
+# Flask
+instance/
+
+# Logs
+*.log
